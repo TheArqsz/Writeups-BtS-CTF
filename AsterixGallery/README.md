@@ -8,3 +8,5 @@ In this challenge you are given an URL. When you access it via website you can s
 - x-flag-letter - a sign from the flag
 
 What you have to do is collect all letters and save them in corect order - you get the flag.
+
+Example solution in `solve.py`
