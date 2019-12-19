@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 # description
-In MIDI file there is 3 melodic lines in which data is encoded. Each seperate data can be decode into text using such converters as ```bin2txt``` decoders. Highest and lowest melodic line is random text just to dissipate you. The flag is in middle line: ``````
+In MIDI file there is 3 melodic lines in which data is encoded. Each seperate data can be decode into text using such converters as ```bin2txt``` decoders. Highest and lowest melodic line is random text just to dissipate you. The flag is in middle line: ```BtS-CTF{WHY_ARE_YOU_WASTING_TIME_LISTENING_TO_THIS_SHIT_XD}```
 In this task you have to decode MIDI file and read decoded data.
 
 ```
