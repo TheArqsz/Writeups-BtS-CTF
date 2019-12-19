@@ -1,0 +1,7 @@
+pillow
+numpy
+opencv-python
+keras
+matplotlib
+tensorflow
+qrcode
